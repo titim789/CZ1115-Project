@@ -7,8 +7,8 @@ This is a small Data Science university project done on the the Olist Market Dat
 <h3> The Team Consist of: </h3>
 <ol> 
   <li>Terrence</li>
-  <li>Yan Shiun</li>
-  <li>Titus</li>
+  <li>[Yan Shiun](https://github.com/ys-c)</li>
+  <li>[Titus](https://github.com/titim789)</li>
 </ol>
 
 # How we approached this project
