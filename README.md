@@ -6,7 +6,7 @@ This is a small Data Science university project done on the the Olist Market Dat
 
 <h3> The Team Consist of: </h3>
 
-  - Terrence
+  - [Terrence](https://github.com/terrenceong)
   - [Yan Shiun](https://github.com/ys-c)
   - [Titus](https://github.com/titim789)
 
