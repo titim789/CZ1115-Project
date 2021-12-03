@@ -5,11 +5,10 @@ Data Science Project using the Olist dataset from kaggle
 This is a small Data Science university project done on the the Olist Market Dataset in a group of 3.
 
 <h3> The Team Consist of: </h3>
-<ol> 
-  <li>Terrence</li>
-  <li>[Yan Shiun](https://github.com/ys-c)</li>
-  <li>[Titus](https://github.com/titim789)</li>
-</ol>
+
+  - Terrence
+  - [Yan Shiun](https://github.com/ys-c)
+  - [Titus](https://github.com/titim789)
 
 # How we approached this project
 <h3> Step 1: Picking Dataset</h3>
